@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaushal B Yagnik"
+title                    : "Kaushal Yagnik"
 title_separator          : "-"
 name                     : &name "Kaushal Yagnik"
 description              : &description "Data Scientist @Microsoft Bangalore"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kaushal Yagnik"
   avatar           : "dp.png"
-  bio              : "Data & Applied Scientist, Microsoft"
+  bio              : "Data & Applied Scientist"
   location         : "Bangalore"
   employer         : "Microsoft IDC"
   googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"

@@ -5,15 +5,16 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Ropar (2012-2016)
+* HSC, St. Xaviers High School Loyola Hall, Ahmedabad, 2012
+* SSC, St. Xaviers High School Loyola Hall, Ahmedabad, 2010
 
 Work experience
 ======
@@ -27,6 +28,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+
 Skills
 ======
 * Skill 1
