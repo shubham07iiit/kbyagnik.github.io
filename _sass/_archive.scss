@@ -19,11 +19,34 @@
     text-decoration: none;
   }
 
-  li p img {
+  table tbody tr td img {
     width: 200px;
     height:150px;
-    display: -webkit-box;
+    display: -block;
   }
+
+
+  table {
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 24px;
+      border-spacing: 0;
+      border-bottom: 0px;
+      border-top: 0px;
+      border: 0;
+      font-size: 17px;
+  }
+
+  table td {
+      padding: 3px 10px;
+      border-top: none;
+      border-left: none;
+      border-bottom: none;
+      border-right: none;
+      border: 0;
+  }
+
+
 }
 
 .archive__subtitle {
