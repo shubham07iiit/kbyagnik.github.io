@@ -12,24 +12,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education  
 ======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology Ropar (2012-2016)
-* HSC, St. Xaviers High School Loyola Hall, Ahmedabad, 2012
-* SSC, St. Xaviers High School Loyola Hall, Ahmedabad, 2010
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+| Course   | Board/University      | Year      | CGPA       |
+| -------- | --------------------- | --------- | ---------- |
+| B.Tech. (Computer Science) | Indian Institute of Technology Ropar, India | 2012 –2016 | 7.47   |
+| Std. XII (HSC) | St. Xavier’s Loyola Hall, Ahmedabad (India) | March 2012 | 87.72 %tile |
+| Std. X (SSC) | St. Xavier’s Loyola Hall, Ahmedabad (India) | March 2010 | 88.31 %age |
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 
 Skills
 ======
@@ -46,17 +37,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Work Experience
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======

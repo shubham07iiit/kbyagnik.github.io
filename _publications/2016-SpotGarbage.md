@@ -8,7 +8,12 @@ venue: 'ACM International Joint Conference on Pervasive and Ubiquitous Computing
 paperurl: ''
 citation: 'Classification of Trash for Recyclability Status'
 ---
-A smart phone app to detect and segment garbage in unconstrained real-world images using state-of-the-art computer vision and machine learning techniques.
-The app, SpotGarbage, allows people to click an image and send the prediction information (with geo coordinates) to the municipality for clean-up.
 
 [Download paper here](https://dl.acm.org/citation.cfm?id=2971731)
+
+A smart phone app to detect and segment garbage in unconstrained real-world images using state-of-the-art computer vision and machine learning techniques.
+The app, SpotGarbage, allows people to click an image and send the prediction information (with geo coordinates) to the municipality for clean-up. The app can be seen in actions in this [Youtube video!](https://www.youtube.com/watch?v=cTkCsz5C8zs)
+
+A webservice has been deployed at [http://spotgarbage.com](http://spotgarbage.com) with a ready to use free API available on [Mashape here](https://market.mashape.com/g1910/spotgarbage).
+
+
