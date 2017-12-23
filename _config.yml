@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kaushal B Yagnik"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kaushal Yagnik"
+description              : &description "Data Scientist @Microsoft Bangalore"
+url                      : https://kbyagnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kbyagnik/kbyagnik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "kbyagnik"
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Kaushal Yagnik"
+  avatar           : "dp.png"
+  bio              : "Data & Applied Scientist, Microsoft"
+  location         : "Bangalore"
+  employer         : "Microsoft IDC"
+  googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"
+  email            : "kbyagnik94@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,24 +92,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kbyagnik"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kaushalyagnik"
+  orcid            : "http://orcid.org/0000-0002-9229-9163"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "3840417/peaceful-soul"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kbyagnik"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  quora            : "Kaushal-Yagnik"
 
 
 # Reading Files
@@ -249,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Calcutta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

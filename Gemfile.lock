@@ -20,6 +20,8 @@ GEM
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
     ffi (1.9.14-x64-mingw32)
+    font-awesome-sass (4.7.0)
+      sass (>= 3.2)
     gemoji (2.1.0)
     github-pages (89)
       activesupport (= 4.2.7)
@@ -129,9 +131,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  font-awesome-sass (~> 4.7.0)
   github-pages
   jekyll-feed
   jekyll-sitemap
 
 BUNDLED WITH
-   1.12.5
+   1.16.1
