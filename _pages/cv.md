@@ -22,15 +22,6 @@ Education
 | Std. X (SSC) | St. Xavier’s Loyola Hall, Ahmedabad (India) | March 2010 | 88.31 %age |
 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,7 +39,19 @@ Work Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
   
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams

@@ -2,7 +2,7 @@
 title: "Data and Applied Scientist"
 collection: talks
 type: "Full-time job"
-permalink: /talks/27/06/2016-data-scientist
+permalink: /workexp/27/06/2016-data-scientist
 venue: "Microsoft India Development Center"
 date: 27/06/2016
 location: "Bangalore, Karnataka"

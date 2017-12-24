@@ -2,7 +2,7 @@
 title: "Web Development Intern"
 collection: talks
 type: "Summer Internship"
-permalink: /talks/15/05/2014-web-dev-intern
+permalink: /workexp/15/05/2014-web-dev-intern
 venue: "Government Science College, Maninagar"
 date: 15/05/2014
 enddate: 05/07/2014
