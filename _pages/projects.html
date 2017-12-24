@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+redirect_from: 
+  - /project/
+  - /projects
+---
+
+<!-- <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p> -->
+{% include base_path %}
+{% for post in site.projects reversed %}
+  {% include archive-single-project.html %}
+{% endfor %}
