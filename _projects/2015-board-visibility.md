@@ -10,3 +10,7 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "none"
 excerpt: Detect low visibility of text on blackboard using an ad-hoc network of Intel Edisons and an Android smartphone.
 ---
+
+Guide: Dr. Junghyun Jun,&ensp;Indian Institute of Technology Ropar 
+
+Detect low visibility of text on blackboard using an ad-hoc network of Intel Edisons and an Android smartphone.

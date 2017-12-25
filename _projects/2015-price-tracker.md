@@ -10,3 +10,9 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/Amazon-PriceTracker"
 excerpt: Analyse price trends of any product on Amazon to decide best time to buy it.
 ---
+
+Guide: Dr Balwinder Sodhi,&ensp;Indian Institute of Technology Ropar 
+
+[Github repository](https://github.com/kbyagnik/Amazon-PriceTracker)
+
+Analyse price trends of any product on Amazon to decide best time to buy it.

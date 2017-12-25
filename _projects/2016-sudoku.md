@@ -10,3 +10,9 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/SudokuSolver"
 excerpt: Solve Sudoku puzzles using constraint satisfaction, and Boolean satisfiability for conjunctive normal form (CNF).
 ---
+
+Guide: Dr CK Narayanan,&ensp;Indian Institute of Technology Ropar 
+
+[Github repository](https://github.com/kbyagnik/SudokuSolver)
+
+Solve Sudoku puzzles using constraint satisfaction, and Boolean satisfiability for conjunctive normal form (CNF).

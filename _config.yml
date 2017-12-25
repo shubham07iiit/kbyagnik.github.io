@@ -81,7 +81,7 @@ author:
   name             : "Kaushal Yagnik"
   avatar           : "dp.png"
   bio              : "Data & Applied Scientist"
-  location         : "Bangalore"
+  location         : "Bangalore, India"
   employer         : "Microsoft IDC"
   googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"
   email            : "kbyagnik94@gmail.com"
@@ -244,7 +244,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
  

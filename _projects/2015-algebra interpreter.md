@@ -10,3 +10,9 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/relational-algebra-interpreter-using-antlr-v4"
 excerpt: Parse a relational algebra expression to generate a corresponding SQL query with proper syntax.
 ---
+
+Guide: Dr CK Narayanan,&ensp;Indian Institute of Technology Ropar 
+
+[Github repository](https://github.com/kbyagnik/relational-algebra-interpreter-using-antlr-v4)
+
+Parse a relational algebra expression to generate a corresponding SQL query with proper syntax.

@@ -10,3 +10,9 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/AmazonS4"
 excerpt: Using RSA-AES to encrypt files/folders before synchronously transferring them to Amazon S3 bucket.
 ---
+
+Guide: Dr Balwinder Sodhi,&ensp;Indian Institute of Technology Ropar 
+
+[Github repository](https://github.com/kbyagnik/AmazonS4)
+
+Using RSA-AES to encrypt files/folders before synchronously transferring them to Amazon S3 bucket.

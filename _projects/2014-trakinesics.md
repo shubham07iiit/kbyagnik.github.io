@@ -10,3 +10,9 @@ affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/TraKinesics"
 excerpt: Manoeuvre screen-pointer using image processing techniques on hand-gestures from a webcam feed.
 ---
+
+Guide: Dr Deepti Bhatula,&ensp;Indian Institute of Technology Ropar 
+
+[Github repository](https://github.com/kbyagnik/TraKinesics)
+
+Manoeuvre screen-pointer using image processing techniques on hand-gestures from a webcam feed.
