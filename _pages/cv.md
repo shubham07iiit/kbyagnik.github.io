@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,6 +11,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+****
+
+Download pdf : [Kaushal Yagnik CV](/files/Kaushal_CV.pdf) 
+
 
 Education  
 ======
