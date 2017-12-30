@@ -9,6 +9,7 @@ guide: Dr Balwinder Sodhi
 affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/SMS_Sender"
 excerpt: Get SMS updates and booking details (about rail PNR or similar bookings) by sending booking id sms to a particular device.
+rank: "03"
 ---
 
 Guide: Dr Balwinder Sodhi,&ensp;Indian Institute of Technology Ropar 

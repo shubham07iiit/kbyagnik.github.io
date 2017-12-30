@@ -9,6 +9,7 @@ guide: Dr Balwinder Sodhi
 affiliation: Indian Institute of Technology Ropar
 github_repo: "https://github.com/kbyagnik/LostNFound-master"
 excerpt: Intranet portal for institute students to post lost/found items with indexed searching.
+rank: "10"
 ---
 
 Guide: Dr Balwinder Sodhi,&ensp;Indian Institute of Technology Ropar 
