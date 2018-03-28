@@ -1,5 +1,5 @@
 ---
-title: "Auto-SMS reporter"
+title: "Face Recognition"
 collection: projects
 area: "Software Engineering"
 permalink: /projects/20/04/2015-sms-reporter

@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4828e555-ac37-4eaf-8783-25141d09ace6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/04_2015-board-visibility.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/05_2014-lisp.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/06_2015-iaascloud.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/07_2015-amazons4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/08_2015-price-tracker.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/09_2016-sudoku.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/10_2014-lostnfound.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/11_2015-androiddj.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/12_2014-ocr.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/13_2014-trakinesics.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_projects/14_2017-smartplay.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/cv.md" afterPath="$PROJECT_DIR$/_pages/cv.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/leadership.md" afterPath="$PROJECT_DIR$/_pages/leadership.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/publications.md" afterPath="$PROJECT_DIR$/_pages/publications.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown_generator/projects.ipynb" afterPath="$PROJECT_DIR$/markdown_generator/projects.ipynb" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_projects/02_2015-algebra interpreter.md" afterPath="$PROJECT_DIR$/_projects/02_2013-sem-5.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_publications/2016-SpotGarbage.md" afterPath="$PROJECT_DIR$/_publications/2013-WLSTSVM.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_projects/01_2012-sem-6.md" afterPath="$PROJECT_DIR$/_projects/02_2012-sem-5.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_projects/02_2013-sem-5.md" afterPath="$PROJECT_DIR$/_projects/01_2013-sem-6.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_projects/03_2015-sms-reporter.md" afterPath="$PROJECT_DIR$/_projects/02_2012-face-recognition.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,16 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2013-WLSTSVM.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_publications/2013-WLSTSVM.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="146" lean-forward="false" selection-start-line="10" selection-start-column="146" selection-end-line="10" selection-end-column="146" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="portfolio-1.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_portfolio/portfolio-1.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,11 +96,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leadership.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leadership.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/leadership.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="775">
               <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_2012-face-recognition.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_projects/02_2012-face-recognition.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -204,6 +189,7 @@
         <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
         <option value="$PROJECT_DIR$/_pages/leadership.md" />
+        <option value="$PROJECT_DIR$/_projects/03_2015-sms-reporter.md" />
       </list>
     </option>
   </component>
@@ -259,7 +245,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_pages" />
+              <option name="myItemId" value="_projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -774,7 +760,7 @@
         <state relative-caret-position="435">
           <caret line="104" column="4" lean-forward="true" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
           <folding>
-            <element signature="e#664#683#0" expanded="true" />
+            <element signature="e#664#683#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -817,7 +803,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/03_2015-sms-reporter.md">
+    <entry file="file://$PROJECT_DIR$/_projects/02_2012-sem-5.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -825,15 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/01_2012-sem-6.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/02_2013-sem-5.md">
+    <entry file="file://$PROJECT_DIR$/_projects/01_2013-sem-6.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
@@ -925,6 +903,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_projects/02_2012-face-recognition.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
