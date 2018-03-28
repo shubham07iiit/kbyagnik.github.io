@@ -5,6 +5,10 @@ main:
     url: /workexp/
     # research interests
 
+  - title: "Research Internships"
+    url: /researchinterns/
+    # research interests
+
   - title: "Publications"
     url: /publications/
   # honours and awards

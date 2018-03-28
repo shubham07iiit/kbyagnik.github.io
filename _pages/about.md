@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Kaushal Yagnik, currently working as a Data Scientist at Microsoft Bangalore. I'm passionate about using applied Machine Learning concepts for building impactful solutions by using the humongous amount of data which is being generated daily.  
+I'm Shubham Singhal, currently working as a Software Developer at Microsoft India, Bangalore. Prior to Microsoft I worked at Adobe Systems, India, Noida. In total I have 4 years of working experience.
 
-My research interests include applied machine learning, machine learning on large datasets, optimization and game theory. Recently, my passion for music has inspired me to dig deeper into the interplay of music and machine learning. I aspire to make a state-of-the-art machine learning system which captures the emotion of a song and suggests similar songs according to user's temporal emotional state.  
+Currently I am developing a microservice which aggregates data we collect via product [MileIq](https://www.mileiq.com/) and generate reports to send to customers for filing tax.
 
-Personal information
+I'm passionate about Human Computer Interaction, Machine Learning and Data Science. I am working on quantifying usability of the product, understanding users's interests and personalizing their experience on every feature they use.
+
 ======
 
 

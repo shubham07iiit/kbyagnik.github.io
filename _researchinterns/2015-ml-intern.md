@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Intern"
+title: "Summer Research Fellow"
 collection: talks
 type: "Summer Internship"
 permalink: /workexp/11/5/2015-ml-intern

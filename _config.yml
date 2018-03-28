@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaushal Yagnik"
+  name             : "Shubham Singhal"
   avatar           : "dp.png"
-  bio              : "Data & Applied Scientist"
+  bio              : "Software Developer, Data Science Enthusiast"
   location         : "Bangalore, India"
   employer         : "Microsoft IDC"
-  googlescholar    : "https://scholar.google.co.in/citations?user=Re3JnOMAAAAJ&hl=en"
-  email            : "kbyagnik94@gmail.com"
+  googlescholar    :
+  email            : "shubham07iiit@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,25 +92,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kbyagnik"
+  github           : "shubham07iiit"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "kaushalyagnik"
-  orcid            : "http://orcid.org/0000-0002-9229-9163"
+  linkedin         : "shubhamsinghal7"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "3840417/peaceful-soul"
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "kbyagnik"
+  twitter          : "shubham07iiit"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  quora            : "Kaushal-Yagnik"
+  quora            : "Shubham-Singhal-2"
 
 
 # Reading Files
