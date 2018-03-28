@@ -14,7 +14,7 @@ redirect_from:
 
 ****
 
-Download pdf : [Kaushal Yagnik CV](/files/Kaushal_CV.pdf) 
+Download pdf : [Shubham Singhal CV](/files/Shubham-Singhal-Resume.pdf)
 
 
 Education  
@@ -22,9 +22,9 @@ Education
 
 | Course   | Board/University      | Year      | CGPA       |
 | -------- | --------------------- | --------- | ---------- |
-| B.Tech. (Computer Science) | Indian Institute of Technology Ropar, India | 2012 –2016 | 7.47   |
-| Std. XII (HSC) | St. Xavier’s Loyola Hall, Ahmedabad (India) | March 2012 | 87.72 %tile |
-| Std. X (SSC) | St. Xavier’s Loyola Hall, Ahmedabad (India) | March 2010 | 88.31 %age |
+| B.Tech. (Computer Science) | Indian Institute of Information Technology, Allahabad, India | 2010 –2014 | 9.27   |
+| Std. XII (HSC) | Asha Modern School, Saharanpur (India) | March 2012 | 88.8 % |
+| Std. X (SSC) | Asha Modern School, Saharanpur (India) | March 2010 | 93 %|
 
 
 Publications
