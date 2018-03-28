@@ -88,6 +88,9 @@ for row, item in talks.iterrows():
     
     if len(str(item.location)) > 3:
         md += 'location: "' + str(item.location) + '"\n'
+
+    if len(str(item.project_name)) > 3:
+        md += '\nproject_name: "' + str(item.project_name) + '"\n'
            
     md += "---\n"
     

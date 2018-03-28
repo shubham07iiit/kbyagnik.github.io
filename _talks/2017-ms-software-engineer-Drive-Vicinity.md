@@ -6,7 +6,7 @@ permalink: /workexp/20/03/2017-software-engineer-DV
 venue: "Microsoft India Development Center"
 date: 20/03/2017
 location: "Bangalore, Karnataka"
-Project: "Drive Vicinity"
+project_name: "Drive Vicinity"
 ---
 
 Worked on aggregating drives locations to determine the location in which the user drives most of the time to personalize his experience when he adds drive manually.
