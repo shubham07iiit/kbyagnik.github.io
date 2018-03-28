@@ -1,12 +1,12 @@
 ---
-title: "Software Engineer"
+title: "Health Monitor"
 collection: talks
 type: "Full-time job"
-permalink: /workexp/28/06/2014-software-engineer-Watchfolder
+permalink: /workexp/28/07/2014-HM
 venue: "Adobe India Pvt. Ltd."
-date: 28/06/2014
+date: 28/07/2014
+enddate: 17/03/2017
 location: "Noida"
-project_name: "Backend and UI to generate Watched Folder"
 ---
 
 Watched Folders are folders which are watched by services running in the background. There are pre defined actions which are performed on files inside watched folder as per the script written in watched folder.
