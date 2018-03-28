@@ -70,8 +70,8 @@
       <file leaf-file-name="02_2012-face-recognition.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_projects/02_2012-face-recognition.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="350">
+              <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -80,18 +80,18 @@
       <file leaf-file-name="02_2012-sem-5.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_projects/02_2012-sem-5.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="350">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_2013-sem-7.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02_2013-sem-7.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_projects/02_2013-sem-7.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -107,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01_2013-sem-6.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="01_2013-sem-6.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_projects/01_2013-sem-6.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="350">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -189,10 +189,10 @@
         <option value="$PROJECT_DIR$/_pages/publications.md" />
         <option value="$PROJECT_DIR$/_pages/leadership.md" />
         <option value="$PROJECT_DIR$/_projects/03_2015-sms-reporter.md" />
-        <option value="$PROJECT_DIR$/_projects/01_2013-sem-6.md" />
-        <option value="$PROJECT_DIR$/_projects/02_2012-face-recognition.md" />
-        <option value="$PROJECT_DIR$/_projects/02_2012-sem-5.md" />
         <option value="$PROJECT_DIR$/_projects/02_2013-sem-7.md" />
+        <option value="$PROJECT_DIR$/_projects/02_2012-sem-5.md" />
+        <option value="$PROJECT_DIR$/_projects/02_2012-face-recognition.md" />
+        <option value="$PROJECT_DIR$/_projects/01_2013-sem-6.md" />
       </list>
     </option>
   </component>
@@ -900,34 +900,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/01_2013-sem-6.md">
+    <entry file="file://$PROJECT_DIR$/_projects/02_2013-sem-7.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/02_2012-face-recognition.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="350">
+          <caret line="14" column="82" lean-forward="false" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_projects/02_2012-sem-5.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_projects/02_2013-sem-7.md">
+    <entry file="file://$PROJECT_DIR$/_projects/02_2012-face-recognition.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_projects/01_2013-sem-6.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
