@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaushal Yagnik"
+title                    : "Shubham Singhal"
 title_separator          : "-"
-name                     : &name "Kaushal Yagnik"
-description              : &description "Data Scientist @Microsoft Bangalore"
-url                      : https://kbyagnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Shubham Singhak"
+description              : &description "Software Engineer @Microsoft Bangalore"
+url                      : https://shubham07iiit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kbyagnik/kbyagnik.github.io"
+repository               : "shubham07iiit/shubham07iiit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "kbyagnik"
+  username               : &twitter "shubham07iiit"
 facebook:
   username               :
   app_id                 :
