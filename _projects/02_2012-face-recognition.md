@@ -12,7 +12,7 @@ excerpt: Get SMS updates and booking details (about rail PNR or similar bookings
 rank: "03"
 ---
 
-Guide: Dr Balwinder Sodhi,&ensp;Indian Institute of Technology Ropar 
+Guide: Prof. U.S. Tiwary,&ensp;Indian Institute of Information Technology, Allahabad
 
 [Github repository](https://github.com/kbyagnik/SMS_Sender)
 
