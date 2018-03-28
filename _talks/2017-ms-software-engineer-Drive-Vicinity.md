@@ -1,8 +1,8 @@
 ---
-title: "Software Engineer"
+title: "Drive Vicinity"
 collection: talks
 type: "Full-time job"
-permalink: /workexp/20/03/2017-software-engineer-DV
+permalink: /workexp/20/03/2017-DV
 venue: "Microsoft India Development Center"
 date: 20/03/2017
 location: "Bangalore, Karnataka"
