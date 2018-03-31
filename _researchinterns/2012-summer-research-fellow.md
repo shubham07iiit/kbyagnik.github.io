@@ -2,7 +2,7 @@
 title: "Eye Tracking for Natural Language Processing"
 collection: researchinterns
 type: "B.Tech Semester Research Project"
-permalink: /workexp/01/01/2014-ETNLP
+permalink: /researchinterns/01/05/2012-SRF
 venue: "Indian Institute of Technology, Bombay"
 date: 01/01/2014
 enddate: 30/06/2014

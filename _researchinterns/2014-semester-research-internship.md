@@ -2,7 +2,7 @@
 title: "Summer Research Fellow"
 collection: researchinterns
 type: "Summer Internship"
-permalink: /workexp/11/5/2015-ml-intern
+permalink: /researchinterns/01/01/2014-iitb
 venue: "Indian Institute of Science, Bangalore"
 date: 11/5/2015
 enddate: 10/7/2015
