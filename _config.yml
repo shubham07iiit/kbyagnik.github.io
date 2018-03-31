@@ -182,6 +182,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  researchinterns:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -255,7 +258,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true    
+      share: true
+
+  # _researchinterns
+  - scope:
+      path: ""
+      type: researchinterns
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
