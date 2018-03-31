@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4828e555-ac37-4eaf-8783-25141d09ace6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/researchinterns.html" afterPath="$PROJECT_DIR$/_pages/researchinterns.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown_generator/publications.ipynb" afterPath="$PROJECT_DIR$/markdown_generator/publications.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/markdown_generator/researchinterns.ipynb" afterPath="$PROJECT_DIR$/markdown_generator/researchinterns.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,18 +19,28 @@
       <file leaf-file-name="researchinterns.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/researchinterns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state relative-caret-position="400">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/portfolio.html">
+      <file leaf-file-name="archive-single-researchinterns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/archive-single-researchinterns.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-140">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archive-single-project.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/archive-single-project.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-265">
+              <caret line="15" column="82" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -46,21 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="researchinterns.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="researchinterns.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="projects.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/markdown_generator/projects.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1290">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="30" />
-              <folding />
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -74,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publications.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="publications.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/markdown_generator/publications.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -86,7 +86,7 @@
       <file leaf-file-name="researchinterns.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
+            <state relative-caret-position="2625">
               <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding />
             </state>
@@ -107,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.tsv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -190,10 +190,10 @@
         <option value="$PROJECT_DIR$/markdown_generator/projects.tsv" />
         <option value="$PROJECT_DIR$/markdown_generator/researchinterns.py" />
         <option value="$PROJECT_DIR$/markdown_generator/workexp.ipynb" />
-        <option value="$PROJECT_DIR$/_pages/researchinterns.html" />
         <option value="$PROJECT_DIR$/markdown_generator/researchinterns.ipynb" />
         <option value="$PROJECT_DIR$/markdown_generator/projects.ipynb" />
         <option value="$PROJECT_DIR$/markdown_generator/researchinterns.tsv" />
+        <option value="$PROJECT_DIR$/_pages/researchinterns.html" />
       </list>
     </option>
   </component>
@@ -250,48 +250,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="markdown_generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_talks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_researchinterns" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shubham07iiit.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_projects" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -800,14 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/archive-single-project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-311">
-          <caret line="15" column="82" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/publications.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -848,14 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/archive-single-researchinterns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/talks.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -868,22 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/researchinterns.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -904,29 +830,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown_generator/projects.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown_generator/publications.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/markdown_generator/projects.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -937,7 +840,23 @@
     <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="106" column="0" lean-forward="true" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown_generator/projects.tsv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -945,7 +864,46 @@
     <entry file="file://$PROJECT_DIR$/markdown_generator/researchinterns.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="9" />
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/archive-single-project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="15" column="82" lean-forward="false" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/archive-single-researchinterns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/researchinterns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown_generator/publications.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
