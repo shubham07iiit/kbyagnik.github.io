@@ -10,7 +10,6 @@ redirect_from:
 
 <!-- <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p> -->
 {% include base_path %}
-{% assign sorted_projects = site.researchinterns | sort:"rank" %}
-{% for post in sorted_projects reversed %}
-  {% include archive-single-researchinterns.html %}
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
 {% endfor %}
