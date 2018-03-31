@@ -5,8 +5,8 @@ main:
     url: /workexp/
     # Work Experience
 
-  - title: "Research Internships"
-    url: /researchinterns/
+#  - title: "Research Internships"
+#    url: /researchinterns/
     # research interests
 
   - title: "Academic Projects"
