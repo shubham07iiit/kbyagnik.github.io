@@ -9,7 +9,9 @@ enddate: 17/03/2017
 location: "Noida"
 ---
 
-Watched Folders are folders which are watched by services running in the background. There are pre defined actions which are performed on files inside watched folder as per the script written in watched folder.
+Livecycle Configuration Manager is a installation software of Adobe Experience Manager Forms. It performs several set of operations to set up AEM Forms on customer's system. Operations such as configuring application server, configuring database, Content repositories, Deploying WAR's, initializing pdf generator etc. are tasks performed by the software.
 
-* Created UI in coral UI
-* Backend in Java
+* Software was created in Java Swing.
+* Extended it to be used by command line.
+* Added functionality to pre populate fields during subsequent runs.
+* Saved properties in a file to use it as input for command line.

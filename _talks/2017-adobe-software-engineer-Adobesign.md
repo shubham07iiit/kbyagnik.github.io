@@ -9,7 +9,11 @@ enddate: 17/03/2017
 location: "Noida"
 ---
 
-Watched Folders are folders which are watched by services running in the background. There are pre defined actions which are performed on files inside watched folder as per the script written in watched folder.
+Adobe Sign is an another product which allowed documents to be signed digitally. I integrated Adobe Sign with Adobe Experience Manager forms via workitem to make it the part of AEM workflows.
 
-* Created UI in coral UI
-* Backend in Java
+* A workitem accepting relevant fields for Adobe Sign from user and invoking Adobe Sign flow.
+* Asynchronous call to Adobe Sign to support multiple workflows in multi threaded environment.
+* Call back mechanism to resume workflows which have strict dependency on Adobe Sign.
+* Cron Job to fetch the status from Adobe Sign server and update the state of each workflow.
+* Persisting workflows in database to resume it if AEM Forms server goes down between paused state.
+

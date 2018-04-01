@@ -9,9 +9,10 @@ location: "Bangalore, Karnataka"
 project_name: "Drive Vicinity"
 ---
 
-Worked on aggregating drives locations to determine the location in which the user drives most of the time to personalize his experience when he adds drive manually.
+Aggregating last 1 month locations of a user to determine which location is most visited by user. This location is set on map when an user comes to mileiq dashboard.
 
-* Data Analytics Job aggregates data on AWS.
-* The aggregation dumps data on S3 in text files.
+* Data Aggregation Job running on AWS RedShift.
+* The resulted analysis is uploaded to S3 in text files.
+* From S3 data moved to postgres database.
 * Exposed API's to fetch the most frequent location for each user.
-* When user add drives manually they see map loaded with relevant location personalized to their use case.
+* When user visit MilqIQ dashboard, they see map loaded with relevant location personalized to their use case.
