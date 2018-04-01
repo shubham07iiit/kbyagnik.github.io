@@ -10,11 +10,10 @@ redirect_from:
 
 I'm Shubham Singhal, currently working as a Software Developer at Microsoft India, Bangalore. Prior to Microsoft I worked at Adobe Systems, India, Noida. In total I have 4 years of working experience.
 
-Currently I am developing a microservice which aggregates data we collect via product [MileIq](https://www.mileiq.com/) and generate reports to send to customers for filing tax.
+Currently, I am working on a product name [MileIq](https://www.mileiq.com/). I am working on reporting microservice, which runs on Python3 (Django), Azure SQL Server, Redis Queue and hosted on Azure container services using Docker and Kubernetes.
 
-I'm passionate about Human Computer Interaction, Machine Learning and Data Science. I am working on quantifying usability of the product, understanding users's interests and personalizing their experience on every feature they use.
+I'm passionate about Human Computer Interaction, Machine Learning and Data Science. In my free time I love to work on studying usability metrics and algorithms to quantifying usability of the product, understanding users's interests and personalizing their experience on every feature they use.
 
-======
 
 
 <!-- 

@@ -1,19 +1,22 @@
 ---
 title: "Face Recognition"
 collection: projects
-area: "Software Engineering"
-permalink: /projects/20/04/2015-sms-reporter
-technology: "Android"
-date: 20/04/2015
+permalink: /projects/01/02/2012-face-recognition
+technology: "C++, Matlab"
+date: 01/02/2012
+enddate: 20/02/2012
 guide: Prof. G.C. Nandi
 affiliation: Indian Institute of Information Technology, Allahabad
-github_repo: "https://github.com/kbyagnik/SMS_Sender"
-excerpt: Get SMS updates and booking details (about rail PNR or similar bookings) by sending booking id sms to a particular device.
-rank: "03"
+github_repo:
+excerpt: Clicked faces of few of my batch mates and trained a model to recognize them.
+rank: "01"
 ---
 
-Guide: Prof. U.S. Tiwary,&ensp;Indian Institute of Information Technology, Allahabad
+Guide: Prof. G.C. Nandi,&ensp;Indian Institute of Information Technology, Allahabad
 
-[Github repository](https://github.com/kbyagnik/SMS_Sender)
-
-Get SMS updates and booking details (about rail PNR or similar bookings) by sending booking id sms to a particular device.
+* I selected 10 batch mates at random.
+* Clicked 10 pictures of each of them in different orientation.
+* Used 6 for training and 4 for testing.
+* Extracted features using Principal Component Analysis.
+* In the first run matched simply by distance based algorithms.
+* Later trained ANN model to recognize them.

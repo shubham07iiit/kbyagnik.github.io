@@ -9,7 +9,7 @@ enddate: 17/03/2017
 location: "Noida"
 ---
 
-Watched Folders are folders which are watched by services running in the background. There are pre defined actions which are performed on files inside watched folder as per the script written in watched folder.
+Adobe Experience Manager desktop application runs in a cluster within the organization. Each node represents once instance of AEM forms. Health of each node is periodically pinged and status can be visualized on admin console itself.
 
-* Created UI in coral UI
-* Backend in Java
+* Utilized gemfire cache to store health of each node
+* Fixed caching layer which was not updating health checks.
