@@ -2,10 +2,12 @@
 title: "Face Recognition"
 collection: projects
 permalink: /projects/01/02/2012-face-recognition
+type: "B.Tech projects - Semester 5"
+area: "Machine Learning"
 technology: "C++, Matlab"
 date: 01/02/2012
 enddate: 20/02/2012
-guide: Prof. G.C. Nandi
+guide: "Prof. G.C. Nandi"
 affiliation: Indian Institute of Information Technology, Allahabad
 github_repo:
 excerpt: Clicked faces of few of my batch mates and trained a model to recognize them.

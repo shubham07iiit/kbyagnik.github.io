@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm Shubham Singhal, currently working as a Software Developer at Microsoft India, Bangalore. Prior to Microsoft I worked at Adobe Systems, India, Noida. In total I have 4 years of working experience.
+I'm Shubham Singhal, a problem solver. I am busy in understanding the world and discovering myself. My passion is to fit me in the best place where I can contribute to making the world better place to live.
 
-Currently, I am working on a product name [MileIq](https://www.mileiq.com/). I am working on reporting microservice, which runs on Python3 (Django), Azure SQL Server, Redis Queue and hosted on Azure container services using Docker and Kubernetes.
-
-I'm passionate about Human Computer Interaction, Machine Learning and Data Science. In my free time I love to work on studying usability metrics and algorithms to quantifying usability of the product, understanding users's interests and personalizing their experience on every feature they use.
-
+Currently, I am working as a Software Developer at Microsoft India, Bangalore. Prior to Microsoft, I worked at Adobe Systems India Pvt. Ltd., Noida.
 
 
 <!-- 
