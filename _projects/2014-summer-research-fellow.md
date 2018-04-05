@@ -14,6 +14,8 @@ guide: "Prof. C.E. Veni Madhavan"
 rank: "02"
 ---
 
+Guide: Prof. C.E. Veni Madhavan,&ensp;Indian Institute of Science, Bangalore
+
 * Aggregated eye tracking data to convert scanpaths into weighted undirected graph
 * Idea was to make area of interests (AOI’s) as nodes and saccades as weighted edges
 * Combined all the saccades between a pair of AOI’s to convert it into weighted edge between those pairs of AOI’s
