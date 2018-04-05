@@ -14,6 +14,8 @@ guide: "Prof. Pushpak Bhattacharyya"
 rank: "06"
 ---
 
+Guide: Prof. Pushpak Bhattacharyya,&ensp;Indian Institute of Technology, Bombay
+
 * Analyzed people behavior of carrying NLP tasks and increasing efficiency of NLP algorithms using Eye Tracking
 * Given a Sentence S and N participants for conducting NLP Experiment, our objective is to find the Consensus Eye Movements, using Eye Movements of N participants recorded through eye tracker.
 * Finding the Areas of Interest (AOIs) that are common to all the participants
