@@ -15,3 +15,5 @@ Livecycle Configuration Manager is a installation software of Adobe Experience M
 * Extended it to be used by command line.
 * Added functionality to pre populate fields during subsequent runs.
 * Saved properties in a file to use it as input for command line.
+* Provided upgrade flow for installing AEM Forms over existing installation of old version.
+* Added several new screens and backend in LCM for supporting features during fresh installation and during upgrade.

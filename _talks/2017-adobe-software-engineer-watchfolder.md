@@ -9,10 +9,11 @@ enddate: 17/03/2017
 location: "Noida"
 ---
 
-Watched Folders are folders which are watched by services running in the background. There are pre defined scripts which are performed on files inside watched folder. Scripts are controlled by customer who creates a watched folder. Watched folder serves as automating their recurring tasks and performing similar set of operations on a set of files.
+Watched Folders are folders which are watched by services running in the background. There are pre defined scripts which are performed on files inside watched folder. Scripts are controlled by customer who creates a watched folder. Watched folder serves as automating recurring tasks and performing similar operations on a set of files.
 
-* Watchedfolder was configured by Adobe Experience Manager tools. Several parameters of watched folder were configurable.
+* Watchedfolder was enabled to be configured by Adobe Experience Manager tools. Several parameters of watched folder were configurable from UI itself.
 * Used OSGI technology to create watchedfolder bundle.
 * The processing method of watched folder could be provided by three different ways.
 * Created UI in coral UI
-* Backend in Java
+* Backend in Java.
+

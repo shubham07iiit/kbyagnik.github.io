@@ -15,5 +15,5 @@ Adobe Sign is an another product which allowed documents to be signed digitally.
 * Asynchronous call to Adobe Sign to support multiple workflows in multi threaded environment.
 * Call back mechanism to resume workflows which have strict dependency on Adobe Sign.
 * Cron Job to fetch the status from Adobe Sign server and update the state of each workflow.
-* Persisting workflows in database to resume it if AEM Forms server goes down between paused state.
+* Persisting workflows in database to resume it, if AEM Forms server goes down between paused state.
 
