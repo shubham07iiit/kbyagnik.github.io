@@ -2,7 +2,7 @@
 title: "Eye Tracking for Natural Language Processing"
 collection: projects
 type: "B.Tech projects Research Project"
-permalink: /projects/01/05/2012-SRF
+permalink: /projects/01/05/2012-IITB
 area: "Probability Theory, Machine Learning"
 technology: "C++, Python, Matlab, Eye Tracker"
 venue: "Indian Institute of Technology, Bombay"
