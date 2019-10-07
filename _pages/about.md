@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Shubham Singhal, a problem solver. I am busy in understanding the world and discovering myself. My passion is to fit me in the best place where I can contribute to making the world better place to live.
 
-Currently, I am working as a Software Developer at Booking.com, Amsterdam. Prior to Booking, I worked at Microsoft India Development Center, Bangalore and Adobe Systems India Pvt. Ltd., Noida.
+Currently, I am pursuing Masters in Computer Science from Georgia Institute of Technology, Atlanta, USA. Earlier, I worked as a Software Developer at Booking.com, Amsterdam. Prior to Booking, I worked at Microsoft India Development Center, Bangalore and Adobe Systems India Pvt. Ltd., Noida.
 
 
 <!-- 

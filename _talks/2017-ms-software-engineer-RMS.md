@@ -5,6 +5,7 @@ type: "Full-time job"
 permalink: /workexp/20/10/2017-RMS
 venue: "Microsoft India Development Center"
 date: 20/03/2017
+enddate: 01/08/2018
 location: "Bangalore, Karnataka"
 ---
 
