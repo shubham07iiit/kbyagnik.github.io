@@ -4,7 +4,8 @@ collection: talks
 type: "Full-time job"
 permalink: /workexp/06/08/2018-CM
 venue: "Booking.com"
-date: 06/08/2017
+date: 06/08/2018
+enddate: 16/08/2019
 location: "Amsterdam, Netherlands"
 project_name: "Campaign Microservice"
 ---
